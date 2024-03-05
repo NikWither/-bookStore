@@ -1,0 +1,27 @@
+.arrowImg {
+    width: 32px;
+    height: 32px;
+}
+
+.book__filter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+}
+
+.filter__sort {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.filter__order {
+    display: flex;
+    align-items: center;
+}
+
+.filter__sort_reset {
+    margin-left: 15px;
+}

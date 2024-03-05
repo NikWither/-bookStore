@@ -1,0 +1,24 @@
+.checkboxSection {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.checkboxSection__item {
+}
+
+.checkboxSection__input {
+
+}
+
+.checkboxSection__label {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    padding-left: 5px;
+}
+
+.checkbox-item label:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }

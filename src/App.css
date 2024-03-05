@@ -1,0 +1,22 @@
+body {
+    background-color: #fafafa;
+}
+
+.app {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 30px;
+}
+
+.app__body {
+    padding: 15px 30px;
+    background-color: white;
+    border: 1.5px solid #ecdede;
+    border-radius: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.app__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
